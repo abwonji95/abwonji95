@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Wallace Abuonji, A software developer specialized in MEAN stack.
 
 <!--
 **abwonji95/abwonji95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
