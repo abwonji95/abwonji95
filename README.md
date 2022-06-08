@@ -21,7 +21,7 @@ Currently working at [Baran Telecom Networks](https://btn-solutions.co.ke)
 * React native
 * Vue JS
 
-- 💬 Ask me about ...
+# 💬 Ask me about ...
 * Angular
 * Django 
 * Django Rest Framework
