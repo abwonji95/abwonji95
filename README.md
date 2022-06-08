@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm ***Wallace Abuonji***, a software developer specialized in MEAN stack.
 <h3 align="left">I'm a  passionate frontend developer from Kenya</h3>
-Currently working at [Baran Telecom Networks](https://btn-solutions.co.ke).
+Currently working at [Baran Telecom Networks](https://btn-solutions.co.ke)
 
 #  🌱 I’m currently learning ...
 
@@ -21,6 +21,12 @@ Currently working at [Baran Telecom Networks](https://btn-solutions.co.ke).
 * React native
 * Vue JS
 
+- 💬 Ask me about ...
+* Angular
+* Django 
+* Django Rest Framework
+* Python
+
 
 # 📫 How to reach me: ...
 * [Twitter](https://twitter.com/simply_waleh)
@@ -37,9 +43,10 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 
-- 💬 Ask me about ...
+
 
 - 😄 Pronouns: ...
+He
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">A passionate frontend developer from Kenya</h3>
