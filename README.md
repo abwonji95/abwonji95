@@ -39,6 +39,9 @@ Currently working at [Baran Telecom Networks](https://btn-solutions.co.ke)
 * [Gmail](abwonji95@gmail.com)
 
 
+![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/42781662/176272543-326cec75-4b73-4937-a0d9-bc133dfa59bc.jpg)
+
+
 
 <!--
 **abwonji95/abwonji95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -88,4 +91,4 @@ He
 
 
 ---
-![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/42781662/176272543-326cec75-4b73-4937-a0d9-bc133dfa59bc.jpg)
+
