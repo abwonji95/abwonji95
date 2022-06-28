@@ -63,7 +63,7 @@ He
 
 <p align="left"> <a href="https://twitter.com/simply_waleh" target="blank"><img src="https://img.shields.io/twitter/follow/simply_waleh?logo=twitter&style=for-the-badge" alt="simply_waleh" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
   
   
@@ -88,3 +88,4 @@ He
 
 
 ---
+![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/42781662/176272543-326cec75-4b73-4937-a0d9-bc133dfa59bc.jpg)
