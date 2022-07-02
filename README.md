@@ -5,9 +5,9 @@ I'm ***Wallace Abuonji***, a software developer specialized in MEAN stack.
 
 ##  Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
 
-*Technical Support
+* Technical Support
 
-*Software development and maintenance
+* Software development and maintenance
 *
 
 #
