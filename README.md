@@ -3,7 +3,7 @@ I'm ***Wallace Abuonji***, a software developer specialized in MEAN stack.
 <h3 align="left">I'm a  passionate frontend developer from Kenya</h3>
 
 
-##Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
+##  Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
 
 
 #
