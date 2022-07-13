@@ -8,7 +8,10 @@ I'm ***Wallace Abuonji***, a software developer specialized in MEAN stack.
 * Technical Support
 
 * Software development and maintenance
-*
+
+*Knowledge transfer
+
+*Smart Meters & IOT 
 
 #
 
