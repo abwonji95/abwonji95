@@ -5,13 +5,18 @@ I'm ***Wallace Abuonji***, a software developer specialized in MEAN stack.
 
 ## Software Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
 
-* Technical Support
-
-* Software development and maintenance
-
-* Knowledge transfer
-
-* Smart Meters & IOT 
+# Respond to technical support calls from end users of computers and
+software applications (both for the business and the customer).
+#  Set up and install new computers, networks, and software.
+• Set up user accounts and profiles on the network.
+• Install updates and perform patches.
+• Install and configure operating systems, anti-virus software and other
+applications.
+• Diagnose and fix network problems and hardware or software faults.
+• Manage data backups on a continuous basis.
+• Manage cloud environments for the company and the customer.
+• Identify, analyze, and resolve cloud infrastructure vulnerabilities and
+application deployment issues.
 
 #
 
