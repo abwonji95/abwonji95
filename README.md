@@ -47,6 +47,9 @@ application deployment issues.
 * Django 
 * Django Rest Framework
 * Python
+* Web Development
+* APIs
+* Deployments to Server and Heroku
 
 
 # 📫 How to reach me: ...
