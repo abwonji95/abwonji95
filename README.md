@@ -2,8 +2,7 @@
 <h3 align="left">
 I'm ***Wallace Abuonji***,A highly effective software developer and valuable team player with personable and dedicated nature.
 I enjoy solving problems and thinking of better solutions.I'm Open to collaborate and share ideas in Software Development Life Cycle.
-
-I'm a  passionate frontend developer from Kenya</h3>
+Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 
 
 ## Software Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
