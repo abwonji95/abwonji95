@@ -1,6 +1,9 @@
 ### Hi there 👋
-I'm ***Wallace Abuonji***, a software developer specialized in MEAN stack.
-<h3 align="left">I'm a  passionate frontend developer from Kenya</h3>
+<h3 align="left">
+I'm ***Wallace Abuonji***,A highly effective software developer and valuable team player with personable and dedicated nature.
+I enjoy solving problems and thinking of better solutions.I'm Open to collaborate and share ideas in Software Development Life Cycle.
+
+I'm a  passionate frontend developer from Kenya</h3>
 
 
 ## Software Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
