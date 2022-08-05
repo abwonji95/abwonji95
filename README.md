@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h3 align="left">
-I'm   Wallace Abuonji   ,A highly effective software developer and valuable team player with personable and dedicated nature.
+I'm   Wallace Abuonji   ,
+
+ii'm highly effective software developer and valuable team player with personable and dedicated nature.
 I enjoy solving problems and thinking of better solutions.I'm Open to collaborate and share ideas in Software Development Life Cycle.
 Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 
