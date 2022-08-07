@@ -2,7 +2,7 @@
 <h3 align="left">
 I'm   Wallace Abuonji   ,
 
-ii'm highly effective software developer and valuable team player with personable and dedicated nature.
+I'm highly effective software developer and valuable team player with personable and dedicated nature.
 I enjoy solving problems and thinking of better solutions.I'm Open to collaborate and share ideas in Software Development Life Cycle.
 Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 
@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 He
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abwonji95&label=Profile%20views&color=0e75b6&style=flat" alt="abwonji95" /> </p>
 
