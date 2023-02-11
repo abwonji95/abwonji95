@@ -47,6 +47,8 @@ application deployment issues.
 * React
 * React native
 * Vue JS
+* Docker
+* microservices
 
 # 💬 Ask me about ...
 * Angular
