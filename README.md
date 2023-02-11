@@ -31,6 +31,8 @@ application deployment issues.
 * React   
 * Vue JS
 * React-Native
+* Microservices
+* Docker
 
 # 🔭 I’m currently working on ...
 
