@@ -33,6 +33,7 @@ application deployment issues.
 * React-Native
 * Microservices
 * Docker
+* Kubernetes
 
 # 🔭 I’m currently working on ...
 
@@ -49,6 +50,7 @@ application deployment issues.
 * Vue JS
 * Docker
 * microservices
+* Kubernetes
 
 # 💬 Ask me about ...
 * Angular
