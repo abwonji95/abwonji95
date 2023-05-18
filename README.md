@@ -34,6 +34,7 @@ application deployment issues.
 * Microservices
 * Docker
 * Kubernetes
+* Go
 
 # 🔭 I’m currently working on ...
 
@@ -51,6 +52,7 @@ application deployment issues.
 * Docker
 * microservices
 * Kubernetes
+* Go
 
 # 💬 Ask me about ...
 * Angular
