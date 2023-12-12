@@ -6,26 +6,6 @@ I'm highly effective software developer and valuable team player with personable
 I enjoy solving problems and thinking of better solutions.I'm Open to collaborate and share ideas in Software Development Life Cycle.
 Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 
-
-## Software Support Engineer at  [Baran Telecom Networks](https://btn-solutions.co.ke)
-
-    # Responsibilities.
-
-* Respond to technical support calls from end users of computers and
-  software applications (both for the business and the customer).
-*  Set up and install new computers, networks, and software.
-* Set up user accounts and profiles on the network.
-* Install updates and perform patches.
-* Install and configure operating systems, anti-virus software and other
-  applications.
-* Diagnose and fix network problems and hardware or software faults.
-* Manage data backups on a continuous basis.
-* Manage cloud environments for the company and the customer.
-* Identify, analyze, and resolve cloud infrastructure vulnerabilities and
-application deployment issues.
-
-
-
 #  🌱 I’m currently learning ...
 
 * React   
@@ -83,9 +63,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 
 
-
-
-- ⚡ Fun fact: ...
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abwonji95&label=Profile%20views&color=0e75b6&style=flat" alt="abwonji95" /> </p>
