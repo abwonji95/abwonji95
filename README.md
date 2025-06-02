@@ -2,9 +2,20 @@
 <h3 align="left">
 I'm   Wallace Abuonji   ,
 
-I'm highly effective software developer and valuable team player with personable and dedicated nature.
-I enjoy solving problems and thinking of better solutions.I'm Open to collaborate and share ideas in Software Development Life Cycle.
+I’m a product-focused developer who turns ideas into scalable, maintainable software. 
+I specialize in building full-stack applications using Python, JavaScript, TypeScript, and PostgreSQL, 
+with a strong emphasis on clean architecture, developer velocity, and business impact.
 Currently residing in Kenya but open to remote Work and Opportunities. </h3>
+
+# 🌐 Tech Stack 
+* Python
+* JavaScript
+* Typescript
+* React
+* Node.js
+* Docker
+* MongoDB
+* PostgreSQL
 
 #  🌱 I’m currently learning ...
 
@@ -15,12 +26,14 @@ Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 * Docker
 * Kubernetes
 * Go
+* Flask
 
 # 🔭 I’m currently working on ...
 
-* Reporting web application.
-* My  Portfolio Website.
-* Date and Holidays application with public API
+* **Reporting web application** - A dynamic web platform for generating real-time reports with customizable filters and data visualizations. I have implement role-based authentication. Built with Python, TypeScript, and PostgreSQL to ensure performance, security, and flexibility.
+* **My  Portfolio Website** - A modern, responsive portfolio built with TypeScript and React to showcase my work, skills, and technical background. Designed with clean UI/UX principles and optimized for fast loading and SEO.
+* **Date and Holidays application with public API** - A public REST API that provides accurate national and international holiday data, including custom date logic. Built with Python and PostgreSQL, optimized for speed and easy integration into apps or automations.
+* **CRM Dashboards**  - Interactive dashboards for visualizing sales, customer data, and KPIs. Developed using a Python backend and a TypeScript + React frontend. Features real-time updates, filters, and user-friendly data breakdowns.
 
 
 
@@ -30,9 +43,10 @@ Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 * React native
 * Vue JS
 * Docker
-* microservices
+* Microservices
 * Kubernetes
 * Go
+* Flask
 
 # 💬 Ask me about ...
 * Angular
@@ -41,26 +55,21 @@ Currently residing in Kenya but open to remote Work and Opportunities. </h3>
 * Python
 * Web Development
 * APIs
-* Deployments to Server and Heroku
+* Next JS
 
 
 # 📫 How to reach me: ...
-* [Twitter](https://twitter.com/simply_waleh)
 * [Gmail](abwonji95@gmail.com)
 
 
-![kevin-ku-w7ZyuGYNpRQ-unsplash](https://user-images.githubusercontent.com/42781662/176272543-326cec75-4b73-4937-a0d9-bc133dfa59bc.jpg)
+
 
 
 
 <!--
 **abwonji95/abwonji95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-
-
-- 👯 I’m looking to collaborate on ...
 
 
 -->
